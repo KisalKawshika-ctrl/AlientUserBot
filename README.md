@@ -1,20 +1,20 @@
-<h1 align="center"><b> Virtual-USERBOT 馃嚤馃嚢  </b></h1>
-<h4 align="center">A Powerful, Smart And Simple Userbot with 300+ Plugins <br> ... The Userbot Remix ...</h4>
+<h1 align="center"><b> AlientUserBot  </b></h1>
+<h4 align="center">A Powerful, Smart And Simple Userbot <br> ... The Userbot Remix ...</h4>
 
 <p align="center">
-    <a href="https://github.com/kisalkawshika-ctrl/virutualuserbot/commits/master"><img src="https://img.shields.io/github/last-commit/inukaasith/virtualuserbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
-    <a href="https://github.com/kisalkawshika-ctrl/virutualuserbot/stargazers"><img src="https://img.shields.io/github/stars/inukaasith/virtualuserbot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-    <a href="https://github.com/kisalkawshika-ctrl/virutualuserbot/network/members"><img src="https://img.shields.io/github/forks/inukaasith/virtualuserbot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+    <a href="https://github.com/kisalkawshika-ctrl/AlientUserBot/commits/master"><img 
+    href="https://github.com/kisalkawshika-ctrl/virutualuserbot/stargazers"><img src="https://img.shields.io/github/stars/KisalKawshika-ctrl/AlientUserBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/kisalkawshika-ctrl/AlientUserBot/network/members"><img src="https://img.shields.io/github/forks/kisalkawshika-ctrl/AlientUserBot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
 <p align="center"><a href="https://t.me/KisalKawshika"><img src="https://telegra.ph/file/af819fad38708f8cbe378.jpg" width="400"></a></p> 
 
 
-### Here is the Telegram VirtualUserbot. A Remix Of Userbots on github.. Credits To Thier Owners..
+### Here is the Telegram AlientUserBot. A Remix Of Userbots on github.. Credits To Thier Owners..
 
-# 馃槏 Credits
-### Cloned from [Friday Userbot](github.com/starkgang/fridayuserbot).. Full credits to Friday Developers 
-#### Special thanks To Friday And Dark Cobra Bot a lot
+
+
+
 
 ``` Full credits mentioned at the bottom```
 # 
@@ -28,8 +28,8 @@
 
 <p align="left">
   
-  <a href="https://github.com/kisalkawshika-ctrl/virtualuserbot">
-    <img src="https://img.shields.io/github/stars/inukaasith/virtualuserbot?style=social">
+  <a href="https://github.com/kisalkawshika-ctrl/AlientUserBot">
+    <img src="https://img.shields.io/github/stars/kisalkawshika-ctrl/AlientUserBot?style=social">
   </a>
 </p>
 
@@ -84,7 +84,7 @@ To English =>
 
 # 馃弮鈥嶁檪锔� Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kisalkawshika-ctrl/virutualuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kisalkawshika-ctrl/AlientUserBot)
 
 ``` Always try to  Deploy this source. If not you will miss the future updates```
 
