@@ -1,2 +1,2 @@
-# AlientUserBot
-on the mars😂
+# [Repository moved to GitLab](https://gitlab.com/friendly-telegram/friendly-telegram)
+
